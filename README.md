@@ -1,0 +1,2 @@
+# autoWinClose
+automatically close winner
